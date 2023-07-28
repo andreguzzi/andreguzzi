@@ -1,7 +1,27 @@
-### Hi there 👋
+👋 Olá! Bem-vindo(a) ao meu perfil do GitHub!
 
+🚀 Sobre mim:
+Sou um desenvolvedor fullstack apaixonado por criar soluções criativas e eficientes. Minha jornada no mundo da programação começou há alguns anos, e desde então, venho aprimorando minhas habilidades nas linguagens de programação.
 
-**andreguzzi/andreguzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Experiência:
+Durante minha carreira, tive a oportunidade de trabalhar em projetos desafiadores, tanto individualmente quanto em equipe. Minhas experiências variadas me permitiram adquirir um entendimento abrangente do desenvolvimento de software, desde o back-end sólido até as interfaces front-end intuitivas.
+
+🔧 Tecnologias:
+Além das linguagens mencionadas acima, também tenho conhecimentos em frameworks e tecnologias relevantes para o desenvolvimento web, como Spring (Java), ASP.NET (C#) e Laravel (PHP). Minha experiência em ambientes de banco de dados inclui MySQL, PostgreSQL e MongoDB.
+
+💡 Projetos:
+Em meu repositório do GitHub, você encontrará alguns projetos pessoais e contribuições para projetos de código aberto. Sinta-se à vontade para explorar e deixar seus comentários e sugestões!
+
+🌱 Sempre aprendendo:
+Acredito que a busca pelo conhecimento é um processo contínuo e, por isso, estou sempre empenhado em aprender novas tecnologias e melhores práticas de desenvolvimento. Acredito que a colaboração é a chave para o crescimento, e estou sempre disposto(a) a ajudar e aprender com a comunidade.
+
+📫 Entre em contato:
+Estou aberto(a) a oportunidades de colaboração e novos projetos interessantes! Fique à vontade para me contatar por e-mail ou pelas redes sociais listadas abaixo.
+
+LinkedIn: andreguzzi
+E-mail: andre_guzzi@hotmail.com
+
+tenha um bom dia! 🤝
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
@@ -9,6 +29,7 @@
   <img align="center" alt="Andre-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Andre-ANGULAR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Andre-LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">

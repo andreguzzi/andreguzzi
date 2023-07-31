@@ -18,7 +18,7 @@ Acredito que a busca pelo conhecimento é um processo contínuo e, por isso, est
 📫 Entre em contato:
 Estou aberto(a) a oportunidades de colaboração e novos projetos interessantes! Fique à vontade para me contatar por e-mail ou pelas redes sociais listadas abaixo.
 
-LinkedIn: andreguzzi
+LinkedIn: https://www.linkedin.com/in/andr%C3%A9-guzzi/
 E-mail: andre_guzzi@hotmail.com
 
 tenha um bom dia! 🤝
@@ -28,7 +28,7 @@ tenha um bom dia! 🤝
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguzzi"/>
 </div>
 
-
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

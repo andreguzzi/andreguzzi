@@ -23,9 +23,11 @@ E-mail: andre_guzzi@hotmail.com
 
 tenha um bom dia! 🤝
 
+![Snake animation](https://github.com/andreguzzi/andreguzzi/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <a href="https://github.com/andreguzzi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguzzi"/>
+   <img height=360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguzzi"/>
 </div>
 
 <br>
